@@ -11,16 +11,8 @@
           {"namedevice": "deviceR1_2", "id": "456321", "status": "online"},
           {"namedevice": "deviceR1_3", "id": "758964", "status": "online"}
         ]
-      },
-      {
-        "nameroom": "RoomH1_2",
-        "cateroom": "Livingroom",
-        "datadevice": [
-          {"namedevice": "deviceR2_1", "id": "142536", "status": "online"},
-          {"namedevice": "deviceR2_2", "id": "582536", "status": "online"},
-          {"namedevice": "deviceR2_3", "id": "142558", "status": "offline"},
-        ]
-      },
+      }
+      
     ]
   },
   
