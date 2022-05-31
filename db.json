@@ -1,51 +1,73 @@
-{
+[
   {"name":"Home1",
    "cateplace": "Home",
-   "dataroom" : [{"nameroom":"RoomH1_1",
-                 "cateroom":"Bedroom",
-                 "datadevice":[{"namedevice":"deviceR1_1",
-                              "id":"123456","status":"online"},
-                              {"namedevice":"deviceR1_2",
-                              "id":"456321","status":"online"},
-                              {"namedevice":"deviceR1_3",
-                              "id":"758964","status":"online"},]
-                 },
-                 {"nameroom":"RoomH1_2",
-                 "cateroom":"Livingroom",
-                 "datadevice":[{"namedevice":"deviceR2_1",
-                              "id":"142536","status":"online"},
-                              {"namedevice":"deviceR2_2",
-                              "id":"582536","status":"online"},
-                              {"namedevice":"deviceR2_3",
-                              "id":"142558","status":"offline"},]
-                 },
-                ]
+   "dataroom" : [
+     {"nameroom":"RoomH1_1",
+      "cateroom":"Bedroom",
+      "datadevice":[
+        {"namedevice":"deviceR1_1",
+         "id":"123456",
+         "status":"online"},
+        {"namedevice":"deviceR1_2",
+         "id":"456321",
+         "status":"online"},
+        {"namedevice":"deviceR1_3",
+        "id":"758964",
+        "status":"online"}
+      ]
+     },
+     {"nameroom":"RoomH1_2",
+      "cateroom":"Livingroom",
+      "datadevice":[
+        {"namedevice":"deviceR2_1",
+         "id":"142536",
+         "status":"online"},
+        {"namedevice":"deviceR2_2",
+         "id":"582536",
+         "status":"online"},
+        {"namedevice":"deviceR2_3",
+         "id":"142558",
+         "status":"offline"},
+      ]
+     },
+   ]
   },
   {"name":"Home2",
    "cateplace": "Condo",
-   "dataroom" : [{"nameroom":"RoomH2_1",
-                 "cateroom":"Bathroom",
-                 "datadevice":[{"namedevice":"deviceR1_1",
-                              "id":"915375","status":"offline"},
-                              ]
-                 },
-                 {"nameroom":"RoomH2_2",
-                 "cateroom":"Livingroom",
-                 "datadevice":[{"namedevice":"deviceR2_1",
-                              "id":"753699","status":"online"},
-                              {"namedevice":"deviceR2_2",
-                              "id":"142536","status":"online"},
-                              {"namedevice":"deviceR2_3",
-                              "id":"223669","status":"offline"},]
-                 },
-                 {"nameroom":"RoomH2_3",
-                 "cateroom":"Livingroom",
-                 "datadevice":[{"namedevice":"deviceR3_1",
-                              "id":"781232","status":"online"},
-                              {"namedevice":"deviceR3_2",
-                              "id":"888563","status":"online"},
-                              ]
-                 },
-                ]
+   "dataroom" : [
+     {"nameroom":"RoomH2_1",
+      "cateroom":"Bathroom",
+      "datadevice":[
+        {"namedevice":"deviceR1_1",
+         "id":"915375",
+         "status":"offline"}
+      ]
+     },
+     {"nameroom":"RoomH2_2",
+      "cateroom":"Livingroom",
+      "datadevice":[
+        {"namedevice":"deviceR2_1",
+         "id":"753699",
+         "status":"online"},
+        {"namedevice":"deviceR2_2",
+         "id":"142536",
+         "status":"online"},
+        {"namedevice":"deviceR2_3",
+         "id":"223669",
+         "status":"offline"},
+      ]
+     },
+     {"nameroom":"RoomH2_3",
+      "cateroom":"Livingroom",
+      "datadevice":[
+        {"namedevice":"deviceR3_1",
+         "id":"781232",
+         "status":"online"},
+        {"namedevice":"deviceR3_2",
+         "id":"888563",
+         "status":"online"}
+      ]
+     },
+   ]
   }
-}
+]
