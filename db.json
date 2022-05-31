@@ -13,33 +13,7 @@
       "cateplace": "WORKPLACE"
     }
   ],
-  "room":[
-    {
-      "nameplace":"Home1",
-      "nameroom":"Room1",
-      "cateroom":"BEDROOM"
-    },
-    {
-      "nameplace":"Home1",
-      "nameroom":"Room2",
-      "cateroom":"LIVINGROOM"
-    },
-    {
-      "nameplace":"Home2",
-      "nameroom":"Room1",
-      "cateroom":"BEDROOM"
-    },
-    {
-      "nameplace":"Home3",
-      "nameroom":"Room1",
-      "cateroom":"BATHROOM"
-    },
-    {
-      "nameplace":"Home3",
-      "nameroom":"Room2",
-      "cateroom":"BEDROOM"
-    }
-  ],
+  
   "KUY":{
     "Kuy":"kuy"
   }
