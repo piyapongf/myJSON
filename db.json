@@ -1,40 +1,43 @@
 {
-  {
-    "name":"Home1",
-    "category":"HOME",
-    "dataroom":[
-      {
-        "nameroom":"Room1",
-        "cateroom":"BEDROOM",
-        "datadevice":[
-          {
-            "namedevice":"deviceR1_1",
-            "id":"123456",
-            "status":"online"
-          },
-          {
-            "namedevice":"deviceR1_2",
-            "id":"654212",
-            "status":"online"
-          }
-        ]
-      },
-      {
-        "nameroom":"Room2",
-        "cateroom":"LIVINGROOM",
-        "datadevice":[
-          {
-            "namedevice":"deviceR2_1",
-            "id":"789456",
-            "status":"online"
-          },
-          {
-            "namedevice":"deviceR2_2",
-            "id":"123789",
-            "status":"online"
-          }
-        ]
-      }
-    ]
-  }
+  "place":[
+    {
+      "nameplace": "Home1",
+      "cateplace": "HOME"
+    },
+    {
+      "nameplace": "Home2",
+      "cateplace": "CONDO"
+    },
+    {
+      "nameplace": "Home3",
+      "cateplace": "WORKPLACE"
+    }
+  ],
+  "room":[
+    {
+      "nameplace":"Home1",
+      "nameroom":"Room1",
+      "cateroom":"BEDROOM"
+    },
+    {
+      "nameplace":"Home1",
+      "nameroom":"Room2",
+      "cateroom":"LIVINGROOM"
+    },
+    {
+      "nameplace":"Home2",
+      "nameroom":"Room1",
+      "cateroom":"BEDROOM"
+    },
+    {
+      "nameplace":"Home3",
+      "nameroom":"Room1",
+      "cateroom":"BATHROOM"
+    },
+    {
+      "nameplace":"Home3",
+      "nameroom":"Room2",
+      "cateroom":"BEDROOM"
+    },
+  ]
 }
