@@ -1,17 +1,8 @@
 {
-  {
+  "Testdee" : {
     "name":"Home1",
     "caateplace": "HOME",
     "dataroom":"5"
   },
-  {
-    "name":"Home2",
-    "caateplace": "CONDO",
-    "dataroom":"5"
-  },
-  {
-    "name":"Home3",
-    "caateplace": "WORKPLACE",
-    "dataroom":"5"
-  }
+  
 }
