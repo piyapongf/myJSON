@@ -1,4 +1,4 @@
-[
+{
   {"name":"Home1",
    "cateplace": "Home",
    "dataroom" : [{"nameroom":"RoomH1_1",
@@ -48,4 +48,4 @@
                  },
                 ]
   }
-]
+}
