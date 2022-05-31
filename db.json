@@ -1,20 +1,11 @@
 {
-  "place":[
+  "posts": [
     {
-      "nameplace": "Home1",
-      "cateplace": "HOME"
-    },
-    {
-      "nameplace": "Home2",
-      "cateplace": "CONDO"
-    },
-    {
-      "nameplace": "Home3",
-      "cateplace": "WORKPLACE"
+      "id": 1,
+      "title": "hello"
     }
   ],
-  
-  "KUY":{
-    "Kuy":"kuy"
+  "profile": {
+    "name": "typicode"
   }
 }
